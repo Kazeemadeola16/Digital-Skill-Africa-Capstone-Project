@@ -7,6 +7,7 @@ Amazon Product Review Analysis
 As part of my capstone project at Digital Skill Africa, I carried out a comprehensive Exploratory Data Analysis (EDA) on an Amazon dataset. This project was designed to test my analytical thinking, technical skills, and storytelling ability using data. The case study is centered around Amazon, one of the largest global e-commerce platforms involved in the buying and selling of goods across diverse categories.
 
 
+
 ##Objectives
 
 The goal of this analysis is to generate actionable insights that can support
@@ -14,16 +15,17 @@ The goal of this analysis is to generate actionable insights that can support
 • Product improvement • Marketing strategy • Customer engagement
 
 
+
 ##Tools & Functions Used
 
 • Microsoft Excel
 
 - Text-to-Column
-
 - Data Cleaning Tools
 - Pivot Tables
 - Calculated Columns
 - Logical Function (IF)
+
 
 
 ##Data Cleaning Process
@@ -39,6 +41,7 @@ Replaced blank cells (especially in rating and rating count) with 0 to avoid ana
 Created pivot tables for analysis.
 
 Used calculated columns to derive additional metrics like discount status, potential revenue, and price buckets.
+
 
 
 ##Key Business Questions Answered
@@ -72,6 +75,7 @@ Which categories contain products with the highest discounts?
 Which are the top 5 products in terms of both rating and number of reviews?
 
 
+
 ##Key Metrics & Results
 
 • Average ratings – 4.
@@ -97,6 +101,7 @@ Which are the top 5 products in terms of both rating and number of reviews?
 • Categories-products with the highest discounts – Computers & Accessories have the highest discount percentage of 94%.
 
 
+
 ##Recommendations
 
 • Focus marketing on Electronics, Computers & Accessories, and Home & Kitchen due to high revenue and engagement.
@@ -108,6 +113,7 @@ Which are the top 5 products in terms of both rating and number of reviews?
 • Invest in top-earning categories and consider bundling to boost sales.
 
 • Feature top-rated, most-reviewed products in promotions.
+
 
 
 ##Conclusion
@@ -123,6 +129,7 @@ This analysis demonstrates how businesses can leverage product review data to
 • Tailor marketing campaigns 
 
 • Improve listing quality and encourage feedback to build trust and engagement.
+
 
 
 ##References
