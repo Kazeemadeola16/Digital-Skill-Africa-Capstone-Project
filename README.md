@@ -1,11 +1,11 @@
-# Digital-Skill-Africa-Capstone-Project
+# The Incubator Hub (Digital-Skill-Africa)-Capstone-Project
 
 ## Project Topic: Amazon Product Review Analysis
 
 
 ## Project Overview
 
-As part of my capstone project at Digital Skill Africa, I carried out a comprehensive Exploratory Data Analysis (EDA) on an Amazon dataset. This project was designed to test my analytical thinking, technical skills, and storytelling ability using data. The case study is centered around Amazon, one of the largest global e-commerce platforms involved in the buying and selling of goods across diverse categories.
+As part of my capstone project at The Incubator Hub, I carried out a comprehensive Exploratory Data Analysis (EDA) on an Amazon dataset. This project was designed to test my analytical thinking, technical skills, and storytelling ability using data. The case study is centered around Amazon, one of the largest global e-commerce platforms involved in the buying and selling of goods across diverse categories.
 
 
 
