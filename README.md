@@ -3,13 +3,13 @@
 ## Project Topic: Amazon Product Review Analysis
 
 
-##Project Overview
+## Project Overview
 
 As part of my capstone project at Digital Skill Africa, I carried out a comprehensive Exploratory Data Analysis (EDA) on an Amazon dataset. This project was designed to test my analytical thinking, technical skills, and storytelling ability using data. The case study is centered around Amazon, one of the largest global e-commerce platforms involved in the buying and selling of goods across diverse categories.
 
 
 
-##Objectives
+## Objectives
 
 The goal of this analysis is to generate actionable insights that can support
 
@@ -17,7 +17,7 @@ The goal of this analysis is to generate actionable insights that can support
 
 
 
-##Tools & Functions Used
+## Tools & Functions Used
 
 • Microsoft Excel
 
@@ -29,7 +29,7 @@ The goal of this analysis is to generate actionable insights that can support
 
 
 
-##Data Cleaning Process
+## Data Cleaning Process
 
 Before the analysis, I performed data preparation using Excel:
 
@@ -45,7 +45,7 @@ Used calculated columns to derive additional metrics like discount status, poten
 
 
 
-##Key Business Questions Answered
+## Key Business Questions Answered
 
 What is the average discount percentage by product category?
 
@@ -77,7 +77,7 @@ Which are the top 5 products in terms of both rating and number of reviews?
 
 
 
-##Key Metrics & Results
+## Key Metrics & Results
 
 • Average ratings – 4.
 
@@ -103,7 +103,7 @@ Which are the top 5 products in terms of both rating and number of reviews?
 
 
 
-##Recommendations
+## Recommendations
 
 • Focus marketing on Electronics, Computers & Accessories, and Home & Kitchen due to high revenue and engagement.
 
@@ -117,7 +117,7 @@ Which are the top 5 products in terms of both rating and number of reviews?
 
 
 
-##Conclusion
+## Conclusion
 
 This analysis demonstrates how businesses can leverage product review data to
 
@@ -132,14 +132,14 @@ This analysis demonstrates how businesses can leverage product review data to
 • Improve listing quality and encourage feedback to build trust and engagement.
 
 
-##References
+## References
 - Amazon dataset
 - Microsoft Excel
 
-##Final result
+## Final result
 [Amazon Product Review.xlsx](https://github.com/user-attachments/files/21064056/Amazon.Product.Review.xlsx)
 
-##Dashboard
+## Dashboard
 ![Amazon product review dashboard](https://github.com/user-attachments/assets/e8fe3150-65cc-4d7e-94ec-199fcd81e1d4)
 
 
