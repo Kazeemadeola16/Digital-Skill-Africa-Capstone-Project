@@ -138,4 +138,5 @@ This analysis demonstrates how businesses can leverage product review data to
 Amazon dataset
 Microsoft Excel
 
-Dashboard
+##Dashboard
+![Amazon product review dashboard](https://github.com/user-attachments/assets/e8fe3150-65cc-4d7e-94ec-199fcd81e1d4)
