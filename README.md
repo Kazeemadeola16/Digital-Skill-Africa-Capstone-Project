@@ -132,11 +132,14 @@ This analysis demonstrates how businesses can leverage product review data to
 • Improve listing quality and encourage feedback to build trust and engagement.
 
 
-
 ##References
+- Amazon dataset
+- Microsoft Excel
 
-Amazon dataset
-Microsoft Excel
+##Final result
+[Amazon Product Review.xlsx](https://github.com/user-attachments/files/21064056/Amazon.Product.Review.xlsx)
 
 ##Dashboard
 ![Amazon product review dashboard](https://github.com/user-attachments/assets/e8fe3150-65cc-4d7e-94ec-199fcd81e1d4)
+
+
