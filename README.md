@@ -1,5 +1,6 @@
 # Digital-Skill-Africa-Capstone-Project
-Amazon Product Review Analysis
+
+## Project Topic: Amazon Product Review Analysis
 
 
 ##Project Overview
